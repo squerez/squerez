@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-<!--
-**squerez/squerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am squerez, I have joined Github 3 years ago.
 
-Here are some ideas to get you started:
+Since then I pushed 88 commits, opened 3 issues, submitted 29 pull requests, received 0 stars across 15 personal projects and contributed to 6 public repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most used languages across my projects:
 
+ Python  HTML  Lua  Scala  PowerShell  Java  HCL  Other 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
