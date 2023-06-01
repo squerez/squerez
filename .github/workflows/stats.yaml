@@ -1,3 +1,4 @@
+name: generate_readme_with_stats
 on:
   schedule:
     - cron: '0 */24 * * *'
