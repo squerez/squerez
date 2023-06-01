@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-I am *squerez* and I have joined Github **3** years ago.
+Welcome to my GitHub profile! I'm *squerez*, and I've been part of the GitHub community for the past **3** years.
 
-When I started, I did not know even how to program an "hello world", now I still can't program much more **ba dum tss**.
+#### Introduction 
 
-However, since then, some progress has been made:
+I have always been fascinated by the world of programming and technology. 
+When I first joined GitHub, I didn't even know how to program a simple "hello world" application. 
+Fast forward to today, I've made progress, although there's still much more to learn and explore.
 
-- pushed **88** commits;
-- opened **3** issues;
-- submitted **29** pull requests;
-- received **0** stars across **15** personal projects;
-- and contributed to **6** public repositories.
+#### Contributions
 
-Most used languages across my projects:
+Throughout my journey, I've had the opportunity to contribute to various projects. 
+Here are some personal stats:
+
+    Committed **88** times to a range of exciting projects;
+    Opened **3** issues and submitted *29** pull requests, actively participating in **6** public repositories;
+    My personal projects have earned recognition with **0** 0 stars across **15** repositories.
+
+#### Most used languages 
+
+My projects involve a diverse set of languages, with the following being the most prominent:
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B164%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B19%25)
@@ -23,27 +30,33 @@ Most used languages across my projects:
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B11.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.6%25)
 
-I really like tinkering with technology and am currently on my way to learn the following technologies:
 
-- **Rust**;
-- **Go**;
-- **Kubernetes**;
-- **Spinnaker**;
-- **Tekton**;
-- **ArgoCD**;
-- **Flux**;
-- **Keptn**;
-- **Ansible**;
+#### Technologies I'm learning 
 
-I am on my way to become more active on personal projects, hopefully one day you can see my commit snake going around like crazy.
-For now, just look at her go:
+I'm dedicated to expanding my knowledge and skillset by learning the following technologies:
+
+    **Rust** - Exploring systems programming with a focus on safety and performance.
+    **Go** - Embracing simplicity and concurrency in building scalable applications.
+    **Kubernetes** - Orchestrating and managing containerized applications at scale.
+    **Ansible** - Automating infrastructure provisioning and configuration management.
+    **Flux** - Automating the deployment and lifecycle of Kubernetes resources.
+    **ArgoCD** - Ensuring smooth and reliable GitOps-based application deployments.
+    **Spinnaker** - Streamlining continuous delivery and deployment pipelines.
+    **Tekton** - Building cloud-native CI/CD workflows and automation.
+    **Keptn** - Implementing continuous operations and automated quality gates.
+
+I'm excited about the endless possibilities these technologies offer and how they can shape the future of software development.
+I'm constantly working on personal projects, and you can witness my commit snake animation evolving and growing with each contribution:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-
 Isn't she lovely? 
 
-Alright, this is the end of this README, bye!!
+#### Conclusion
+
+Thank you for visiting my profile and taking the time to explore my repositories. 
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out via a issue on this repository. 
+Alright, this is the end of this README, goodbye now!!
