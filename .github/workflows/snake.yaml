@@ -12,6 +12,11 @@ on:
     branches:
     - master
 
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
