@@ -14,7 +14,7 @@ Throughout my journey, I've had the opportunity to contribute to various project
 Here are some personal stats:
 
 - Committed **{{ COMMITS }}** times to a range of exciting projects;
-- Opened **{{ ISSUES }}** issues and submitted *{{ PULL_REQUESTS }}** pull requests, actively participating in **{{ REPOSITORIES_CONTRIBUTED_TO  }}** public repositories;
+- Opened **{{ ISSUES }}** issues and submitted **{{ PULL_REQUESTS }}** pull requests, actively participating in **{{ REPOSITORIES_CONTRIBUTED_TO  }}** public repositories;
 - My personal projects have earned recognition with **{{ STARS }}** 0 stars across **{{ REPOSITORIES }}** repositories.
 
 #### Most used languages 
