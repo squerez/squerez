@@ -13,8 +13,8 @@ Fast forward to today, I've made progress, although there's still much more to l
 Throughout my journey, I've had the opportunity to contribute to various projects.\
 Here are some personal stats:
 
-- Committed **106** times to a range of exciting projects;
-- Opened **3** issues and submitted **31** pull requests, actively participating in **6** public repositories;
+- Committed **108** times to a range of exciting projects;
+- Opened **3** issues and submitted **33** pull requests, actively participating in **6** public repositories;
 - My personal projects have earned recognition with **0** stars across **16** repositories.
 
 #### Most used languages 
