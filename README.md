@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm *squerez*, and I've been part of the GitHub community for the past **3** years.
+Welcome to my GitHub profile! I'm *squerez*, and I've been part of the GitHub community for the past **4** years.
 
 #### Introduction 
 
