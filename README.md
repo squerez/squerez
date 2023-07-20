@@ -14,7 +14,7 @@ Throughout my journey, I've had the opportunity to contribute to various project
 Here are some personal stats:
 
 - Committed **115** times to a range of exciting projects;
-- Opened **3** issues and submitted **38** pull requests, actively participating in **6** public repositories;
+- Opened **2** issues and submitted **38** pull requests, actively participating in **5** public repositories;
 - My personal projects have earned recognition with **1** stars across **16** repositories.
 
 #### Most used languages 
