@@ -13,7 +13,7 @@ Fast forward to today, I've made progress, although there's still much more to l
 Throughout my journey, I've had the opportunity to contribute to various projects.\
 Here are some personal stats:
 
-- Committed **115** times to a range of exciting projects;
+- Committed **123** times to a range of exciting projects;
 - Opened **2** issues and submitted **38** pull requests, actively participating in **5** public repositories;
 - My personal projects have earned recognition with **1** stars across **16** repositories.
 
@@ -27,8 +27,8 @@ My projects involve a diverse set of languages, with the following being the mos
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B16.2%25)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.7%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.1%25)
-![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B11.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.8%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.9%25)
 
 #### Technologies I'm learning 
 
