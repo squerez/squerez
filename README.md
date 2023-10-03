@@ -13,7 +13,7 @@ Fast forward to today, I've made progress, although there's still much more to l
 Throughout my journey, I've had the opportunity to contribute to various projects.\
 Here are some personal stats:
 
-- Committed **124** times to a range of exciting projects;
+- Committed **125** times to a range of exciting projects;
 - Opened **2** issues and submitted **38** pull requests, actively participating in **5** public repositories;
 - My personal projects have earned recognition with **2** stars across **17** repositories.
 
@@ -39,10 +39,6 @@ I'm dedicated to expanding my knowledge and skillset by learning the following t
 - **Kubernetes** - Orchestrating and managing containerized applications at scale.
 - **Ansible** - Automating infrastructure provisioning and configuration management.
 - **Flux** - Automating the deployment and lifecycle of Kubernetes resources.
-- **ArgoCD** - Ensuring smooth and reliable GitOps-based application deployments.
-- **Spinnaker** - Streamlining continuous delivery and deployment pipelines.
-- **Tekton** - Building cloud-native CI/CD workflows and automation.
-- **Keptn** - Implementing continuous operations and automated quality gates.
 
 I'm excited about the endless possibilities these technologies offer and how they can shape the future of software development.\
 I'm constantly working on personal projects, and you can witness my commit snake animation evolving and growing with each contribution:
@@ -58,7 +54,7 @@ In the next list, you can find some of the projects I am passionate about that I
 
 - [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and get into game programming; 
 - [shamir](https://github.com/squerez/shamir) - a simple one-time-password API to use among teams, created to learn about API designs; 
-- [rustbound](https://github.com/squerez/rustnake) - error redirect tool implemented in Rust, to learn about TUI and the language; 
+- [rustbound](https://github.com/squerez/rustbound) - error redirect tool implemented in Rust, to learn about TUI and the language; 
 
 
 
