@@ -31,7 +31,6 @@ I'm dedicated to expanding my knowledge and skillset by learning the following t
 
 - **Rust** - Exploring systems programming with a focus on safety and performance.
 - **Go** - Embracing simplicity and concurrency in building scalable applications.
-- **Kubernetes** - Orchestrating and managing containerized applications at scale.
 - **Ansible** - Automating infrastructure provisioning and configuration management.
 - **Flux** - Automating the deployment and lifecycle of Kubernetes resources.
 
