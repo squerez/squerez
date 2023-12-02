@@ -15,7 +15,7 @@ Here are some personal stats:
 
 - Committed **129** times to a range of exciting projects;
 - Opened **2** issues and submitted **39** pull requests, actively participating in **5** public repositories;
-- My personal projects have earned recognition with **2** stars across **19** repositories.
+- My personal projects have earned recognition with **6** stars across **18** repositories.
 
 #### Most used languages 
 
@@ -36,7 +36,6 @@ I'm dedicated to expanding my knowledge and skillset by learning the following t
 
 - **Rust** - Exploring systems programming with a focus on safety and performance.
 - **Go** - Embracing simplicity and concurrency in building scalable applications.
-- **Kubernetes** - Orchestrating and managing containerized applications at scale.
 - **Ansible** - Automating infrastructure provisioning and configuration management.
 - **Flux** - Automating the deployment and lifecycle of Kubernetes resources.
 
