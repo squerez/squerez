@@ -13,22 +13,22 @@ Fast forward to today, I've made progress, although there's still much more to l
 Throughout my journey, I've had the opportunity to contribute to various projects.\
 Here are some personal stats:
 
-- Committed **125** times to a range of exciting projects;
-- Opened **3** issues and submitted **39** pull requests, actively participating in **5** public repositories;
-- My personal projects have earned recognition with **5** stars across **17** repositories.
+- Committed **126** times to a range of exciting projects;
+- Opened **3** issues and submitted **40** pull requests, actively participating in **5** public repositories;
+- My personal projects have earned recognition with **4** stars across **16** repositories.
 
 #### Most used languages 
 
 My projects involve a diverse set of languages, with the following being the most prominent:
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B163.7%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B19%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B18.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B163.2%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B18.9%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B18.8%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B16.2%25)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.7%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.1%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.9%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 
 #### Technologies I'm learning 
 
@@ -51,10 +51,10 @@ I'm constantly working on personal projects, and you can witness my commit snake
 
 In the next list, you can find some of the projects I am passionate about that I've actively contributing to:
 
-- [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and get into game programming; 
+- [maestro](https://github.com/squerez/maestro) - my take on a python-based data engineering metadata driven framework that is untested on the real world (yet); 
 - [shamir](https://github.com/squerez/shamir) - a simple one-time-password API to use among teams, created to learn about API designs; 
-- [rustbound](https://github.com/squerez/rustbound) - error redirect tool implemented in Rust, to learn about TUI and the language; 
-
+- [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and explore game programming; 
+- [init.lua](https://github.com/squerez/init.lua) - my configuration files for the neovim editor; 
 
 
 Thank you for visiting my profile and taking the time to explore my repositories.\
