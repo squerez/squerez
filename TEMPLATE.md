@@ -46,10 +46,10 @@ I'm constantly working on personal projects, and you can witness my commit snake
 
 In the next list, you can find some of the projects I am passionate about that I've actively contributing to:
 
-- [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and get into game programming; 
+- [maestro](https://github.com/squerez/maestro) - my take on a python-based data engineering metadata driven framework that is untested on the real world (yet); 
 - [shamir](https://github.com/squerez/shamir) - a simple one-time-password API to use among teams, created to learn about API designs; 
-- [rustbound](https://github.com/squerez/rustbound) - error redirect tool implemented in Rust, to learn about TUI and the language; 
-
+- [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and explore game programming; 
+- [init.lua](https://github.com/squerez/init.lua) - my configuration files for the neovim editor; 
 
 
 Thank you for visiting my profile and taking the time to explore my repositories.\
