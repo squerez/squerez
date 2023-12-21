@@ -1,57 +1,62 @@
-### Hi there 👋
+### Hey there 👋
 
-Welcome to my GitHub profile! I'm *squerez*, and I've been part of the GitHub community for the past **{{ ACCOUNT_AGE }}** years.
+Welcome to my corner of GitHub!\
+I'm *squerez*, just a regular tech enthusiast diving into this area for about **{{ ACCOUNT_AGE }}** years now.
 
-#### Introduction 
+#### About me
 
-I have always been fascinated by the world of programming and technology.\
-When I first joined GitHub, I didn't even know how to program a simple "hello world" application.\
-Fast forward to today, I've made progress, although there's still much more to learn and explore.
+I've always been captivated by tech and programming.\
+When I first joined GitHub, just building a simple Python script to print messages in text boxes was quite the challenge for me.\
+Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
 
-#### Contributions
+#### My contributions
 
-Throughout my journey, I've had the opportunity to contribute to various projects.\
-Here are some personal stats:
+So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- Committed **{{ COMMITS }}** times to a range of exciting projects;
-- Opened **{{ ISSUES }}** issues and submitted **{{ PULL_REQUESTS }}** pull requests, actively participating in **{{ REPOSITORIES_CONTRIBUTED_TO  }}** public repositories;
-- My personal projects have earned recognition with **{{ STARS }}** stars across **{{ REPOSITORIES }}** repositories.
+- Committed **{{ COMMITS }}** times to a bunch of different repos;
+- Opened **{{ ISSUES }}** issues and pushed **{{ PULL_REQUESTS }}** pull requests, contributed in **{{ REPOSITORIES_CONTRIBUTED_TO  }}** public repositories;
+- My personal "pet" projects have scored around **{{ STARS }}** stars, spread across **{{ REPOSITORIES }}** repositories.
 
-#### Most used languages 
+#### Languages I use
 
-My projects involve a diverse set of languages, with the following being the most prominent:
+My playground involves various languages, but these are my go-tos:
 
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-#### Technologies I'm learning 
+#### Tech I'm learning 
 
-I'm dedicated to expanding my knowledge and skillset by learning the following technologies:
+I'm on a quest to level up my skills in:
 
-- **Rust** - Exploring systems programming with a focus on safety and performance.
-- **Go** - Embracing simplicity and concurrency in building scalable applications.
-- **Ansible** - Automating infrastructure provisioning and configuration management.
-- **Flux** - Automating the deployment and lifecycle of Kubernetes resources.
+- **Rust**;
+- **Go**;
+- **Ansible**;
+- **Flux**.
 
-I'm excited about the endless possibilities these technologies offer and how they can shape the future of software development.\
-I'm constantly working on personal projects, and you can witness my commit snake animation evolving and growing with each contribution:
+When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, 'Under Construction Forever'.\
+
+You know, just your typical getaway from the world of 'done'."
+
+Anyways, if you're still curious, check out commit snake animation—right here in my profile. It's a cool visual of my coding journey, constantly changing with each contribution.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-#### Personal portfolio
+#### My creative collection
 
-In the next list, you can find some of the projects I am passionate about that I've actively contributing to:
+Behold, my digital creations:
 
-- [maestro](https://github.com/squerez/maestro) - my take on a python-based data engineering metadata driven framework that is untested on the real world (yet); 
-- [shamir](https://github.com/squerez/shamir) - a simple one-time-password API to use among teams, created to learn about API designs; 
-- [rustsnake](https://github.com/squerez/rustnake) - customizable snake game implemented in Rust, created to learn the language and explore game programming; 
-- [init.lua](https://github.com/squerez/init.lua) - my configuration files for the neovim editor; 
+- [maestro](https://github.com/squerez/maestro) - a Python-based data engineering metadata-driven framework. Currently in a testing phase, evolving as I learn more in DE.; 
+- [shamir](https://github.com/squerez/shamir) - a simple OTP API designed for team use, born from my curious mind exploring API design concepts.; 
+- [rustsnake](https://github.com/squerez/rustnake) - a customizable snake game crafted in Rust, wWhere I've been playing with both the language and game development.; 
+- [init.lua](https://github.com/squerez/init.lua) - my tangled web of Neovim configurations, ever-evolving to suit my whims as a lazy dev.
 
+Feel free to take a look and see what I've been doing.
 
-Thank you for visiting my profile and taking the time to explore my repositories.\
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out via a issue on this repository.\
-Alright, this is the end of this README, goodbye now!!
+Thanks for swinging by and checking out my stuff.\ 
+If you've got questions, ideas, or want to collaborate, drop a line via an issue on this repo. 
+
+See ya! 👋
