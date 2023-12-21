@@ -39,7 +39,7 @@ When I'm not here, you might find me wandering in a forest of repositories, wher
 
 You know, just your typical getaway from the world of 'done'.
 
-Anyways, if you're still curious, check out commit snake animation right here in my profile.\
+Anyways, if you're still curious, check out my commit snake animation right here in my profile.\
 It's a cool visual of my coding journey, constantly changing with each contribution.
 
 <picture>
