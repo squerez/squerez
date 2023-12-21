@@ -7,8 +7,7 @@ I'm *squerez*, just a regular tech enthusiast diving into this area for about **
 
 I've always been captivated by tech and programming. \
 When I first joined GitHub, just building a simple Python script to print messages in text boxes was quite
-the challenge for me.\
-Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
+the challenge for me. Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
 
 #### My contributions
 
