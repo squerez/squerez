@@ -5,8 +5,11 @@ I'm *squerez*, just a regular tech enthusiast diving into this area for about **
 
 #### About me
 
-I've always been captivated by tech and programming.\
-When I first joined GitHub, just building a simple Python script to print messages in text boxes was quite the challenge for me.\
+I've always been captivated by tech and programming. 
+
+When I first joined GitHub, just building a simple Python script to print messages \
+in text boxes was quite the challenge for me.\
+
 Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
 
 #### My contributions
@@ -34,11 +37,12 @@ I'm on a quest to level up my skills in:
 - **Ansible**;
 - **Flux**.
 
-When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, 'Under Construction Forever'.\
+When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, `Under Construction Forever`!
 
-You know, just your typical getaway from the world of 'done'."
+You know, just your typical getaway from the world of 'done'.
 
-Anyways, if you're still curious, check out commit snake animation—right here in my profile. It's a cool visual of my coding journey, constantly changing with each contribution.
+Anyways, if you're still curious, check out commit snake animation right here in my profile.\
+It's a cool visual of my coding journey, constantly changing with each contribution.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/squerez/squerez/output/github-contribution-grid-snake-dark.svg">
@@ -56,7 +60,7 @@ Behold, my digital creations:
 
 Feel free to take a look and see what I've been doing.
 
-Thanks for swinging by and checking out my stuff.\ 
+Thanks for swinging by and checking out my stuff.\
 If you've got questions, ideas, or want to collaborate, drop a line via an issue on this repo. 
 
 See ya! 👋
