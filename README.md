@@ -13,7 +13,7 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **136** times to a bunch of different repos;
+- I've committed **137** times to a bunch of different repos;
 - Opened **3** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
 - And contributed in **5** public repositories.
@@ -61,9 +61,11 @@ Behold, my digital creations:
 - [rustsnake](https://github.com/squerez/rustnake) - a customizable snake game crafted in Rust, wWhere I've been playing with both the language and game development.; 
 - [init.lua](https://github.com/squerez/init.lua) - my tangled web of Neovim configurations, ever-evolving to suit my whims as a lazy dev.
 
-Feel free to take a look and see what I've been doing.
+Feel free to explore and see what I've been up to.
 
-Thanks for swinging by and checking out my stuff.\
+---
+
+Thanks for stopping by and checking out my arts & crafts.
 If you've got questions, ideas, or want to collaborate, drop a line via an issue on this repo. 
 
-See ya! 👋
+**Until next time! 👋**
