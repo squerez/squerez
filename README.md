@@ -13,7 +13,7 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **137** times to a bunch of different repos;
+- I've committed **138** times to a bunch of different repos;
 - Opened **3** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
 - And contributed in **5** public repositories.
@@ -40,7 +40,7 @@ I'm on a quest to level up my skills in:
 - **Ansible**;
 - **Flux**.
 
-When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, `Under Construction Forever`!
+When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, ` ⚠️ under construction (forever)`.
 
 You know, just your typical getaway from the world of 'done'.
 
