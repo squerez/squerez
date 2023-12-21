@@ -13,7 +13,7 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **135** times to a bunch of different repos;
+- I've committed **136** times to a bunch of different repos;
 - Opened **3** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
 - And contributed in **5** public repositories.
@@ -56,7 +56,7 @@ It's a cool visual of my coding journey, constantly changing with each contribut
 
 Behold, my digital creations:
 
-- [maestro](https://github.com/squerez/maestro) - a Python-based data engineering metadata-driven framework. Currently in a testing phase, evolving as I learn more in DE.; 
+- [maestro](https://github.com/squerez/maestro) - a Python-based data engineering metadata-driven framework. Currently in a testing phase, evolving as I learn more in the DE field.; 
 - [shamir](https://github.com/squerez/shamir) - a simple OTP API designed for team use, born from my curious mind exploring API design concepts.; 
 - [rustsnake](https://github.com/squerez/rustnake) - a customizable snake game crafted in Rust, wWhere I've been playing with both the language and game development.; 
 - [init.lua](https://github.com/squerez/init.lua) - my tangled web of Neovim configurations, ever-evolving to suit my whims as a lazy dev.
