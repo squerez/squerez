@@ -35,7 +35,7 @@ I'm on a quest to level up my skills in:
 - **Ansible**;
 - **Flux**.
 
-When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, `Under Construction Forever`!
+When I'm not here, you might find me wandering in a forest of repositories, where I've gotten so lost, I've set up campsites in unfinished projects, in each a sign saying, ` ⚠️ under construction (forever)`.
 
 You know, just your typical getaway from the world of 'done'.
 
