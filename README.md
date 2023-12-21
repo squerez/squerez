@@ -16,9 +16,10 @@ Fast-forward to this day, I've made some progress, but hey, there's always more 
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- Committed **129** times to a bunch of different repos;
-- Opened **3** issues and pushed **40** pull requests, contributed in **5** public repositories;
-- My personal "pet" projects have scored around **4** stars, spread across **16** repositories.
+- I've committed **130** times to a bunch of different repos;
+- Opened **3** issues and pushed **40** pull requests;
+- My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
+- And contributed in **5** public repositories.
 
 #### Languages I use
 
