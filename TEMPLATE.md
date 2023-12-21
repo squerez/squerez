@@ -56,9 +56,11 @@ Behold, my digital creations:
 - [rustsnake](https://github.com/squerez/rustnake) - a customizable snake game crafted in Rust, wWhere I've been playing with both the language and game development.; 
 - [init.lua](https://github.com/squerez/init.lua) - my tangled web of Neovim configurations, ever-evolving to suit my whims as a lazy dev.
 
-Feel free to take a look and see what I've been doing.
+Feel free to explore and see what I've been up to.
 
-Thanks for swinging by and checking out my stuff.\
+---
+
+Thanks for stopping by and checking out my arts & crafts.
 If you've got questions, ideas, or want to collaborate, drop a line via an issue on this repo. 
 
-See ya! 👋
+**Until next time! 👋**
