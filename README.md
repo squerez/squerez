@@ -13,7 +13,7 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **134** times to a bunch of different repos;
+- I've committed **135** times to a bunch of different repos;
 - Opened **3** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
 - And contributed in **5** public repositories.
@@ -44,7 +44,7 @@ When I'm not here, you might find me wandering in a forest of repositories, wher
 
 You know, just your typical getaway from the world of 'done'.
 
-Anyways, if you're still curious, check out commit snake animation right here in my profile.\
+Anyways, if you're still curious, check out my commit snake animation right here in my profile.\
 It's a cool visual of my coding journey, constantly changing with each contribution.
 
 <picture>
