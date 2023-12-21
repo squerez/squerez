@@ -5,18 +5,15 @@ I'm *squerez*, just a regular tech enthusiast diving into this area for about **
 
 #### About me
 
-I've always been captivated by tech and programming.
-
-When I first joined GitHub, just building a simple Python script to print messages in text boxes was quite \
-the challenge for me.
-
-Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
+I've always been captivated by tech and programming. \
+When I first joined GitHub, just building a simple Python script to print messages in text boxes was quite
+the challenge for me. Fast-forward to this day, I've made some progress, but hey, there's always more to explore and learn.
 
 #### My contributions
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **132** times to a bunch of different repos;
+- I've committed **134** times to a bunch of different repos;
 - Opened **3** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **16** repositories;
 - And contributed in **5** public repositories.
