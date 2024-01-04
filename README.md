@@ -13,7 +13,7 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **141** times to a bunch of different repos;
+- I've committed **161** times to a bunch of different repos;
 - Opened **9** issues and pushed **40** pull requests;
 - My personal "pet" projects have scored around **4** stars, spread across **17** repositories;
 - And contributed in **5** public repositories.
@@ -22,14 +22,14 @@ So far, I've dipped my toes into several projects, mainly personal, hitting thes
 
 My playground involves various languages, but these are my go-tos:
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B169.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B19.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B169%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B19.6%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B16.8%25)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B16.2%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.3%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.2%25)
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B11.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.9%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.3%25)
 
 #### Tech I'm learning 
 
