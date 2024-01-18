@@ -15,7 +15,7 @@ So far, I've dipped my toes into several projects, mainly personal, hitting thes
 
 - I've committed **161** times to a bunch of different repos;
 - Opened **9** issues and pushed **40** pull requests;
-- My personal "pet" projects have scored around **4** stars, spread across **17** repositories;
+- My personal "pet" projects have scored around **5** stars, spread across **17** repositories;
 - And contributed in **4** public repositories.
 
 #### Languages I use
