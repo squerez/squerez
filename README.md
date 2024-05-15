@@ -13,8 +13,8 @@ the challenge for me. Fast-forward to this day, I've made some progress, but hey
 
 So far, I've dipped my toes into several projects, mainly personal, hitting these milestones:
 
-- I've committed **167** times to a bunch of different repos;
-- Opened **10** issues and pushed **41** pull requests;
+- I've committed **170** times to a bunch of different repos;
+- Opened **10** issues and pushed **42** pull requests;
 - My personal "pet" projects have scored around **5** stars, spread across **19** repositories;
 - And contributed in **2** public repositories.
 
@@ -29,7 +29,7 @@ My playground involves various languages, but these are my go-tos:
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.3%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.2%25)
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B11.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.4%25)
 
 #### Tech I'm learning 
 
