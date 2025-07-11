@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 Welcome to my corner of GitHub!\
-I'm *squerez*, just a regular tech enthusiast diving into this area for about **5** years now.
+I'm *squerez*, just a regular tech enthusiast diving into this area for about **6** years now.
 
 #### About me
 
